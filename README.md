@@ -1,14 +1,33 @@
 Esta explicación es para la creación de una TV en streaming con una Raspberry Pi y el Raspberry Pi TV HAT
 De esta manera, es posible realizar el streaming de TV TDT a todos los dispositivos de la casa e incluso a través de internet.
-Hardware necesario:
 
+Hardware necesario:
 - 1x Raspberry Pi (yo uso una Rpi Zero W)
 - 1x Tarjeta SD con Raspbian instalado
 - 1x Raspberry Pi TV HAT
+Este tutorial parte de la base de que la Raspberry ya está funcionando, conectada a internet (ya sea a través de ethernet of WiFi), con el Pi TV HAT instalado, y da los pasos necesarios para instalar TVHeandend y poder ver los canales de TDT a través de la red.
+
+En esta configuración la Raspberry Pi no está pensada para reproducir la TV, sino para hacer de dispositivos de streaming.
+La Raspberry Pi se usa como sintonizador "always on", configurada para consumir lo menos posible, y trasmitir inalámbricamente la señal TDT al resto de dispositivos de la red LAN de casa por ejemplo, e incluso abriendo los puertos del router de casa se podría transmitir a través de internet.
+
+En este repositorio se incluye el script [tvheadend_install.sh](tvheadend_install.sh) que instala el add-on [Tvheadend](https://tvheadend.org/) en Raspbian Stretch.
+
+Para ejecutar el script en la Raspberry, simplemente descarga el fichero en la Raspberry, hazlo ejecutable con:
+
+`git clone https://github.com/santirguez/TVHeadend-RPi.git`
+
+Una vez descargado, es encesario hacerlo ejecutable:
+
+`chmod +x tvheadend_install.sh`
+
+Una vez es ejecutable, simplemente hay que ejecutarlo (necesita permisos de administrador):
+
+`./tvheadend_install.sh`
 
 
 ## LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
   (forkeado de https://github.com/maincenter/Logotipos-TV)
+  
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
 Estos logotipos dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
@@ -32,7 +51,7 @@ Instalación de las URL's para los logotipos bajo TVHeadend:
 3- En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
 El resto de opciones las dejaremos tal cual están y en la parte superior iquierda pulsaremos en "SAVE" para que los cambios tengan efecto.
 
--Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
+-Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el  resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
 
 -Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
 
