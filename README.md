@@ -20,7 +20,7 @@ Para ejecutar el script en la Raspberry, simplemente descarga el fichero en la R
 
 `git clone https://github.com/santirguez/TVHeadend-RPi.git`
 
-Una vez descargado, es encesario hacerlo ejecutable:
+Una vez descargado, es necesario hacerlo ejecutable:
 
 `chmod +x tvheadend_install.sh`
 
