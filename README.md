@@ -3,8 +3,11 @@ De esta manera, es posible realizar el streaming de TV TDT a todos los dispositi
 Hardware necesario:
 
 1x Raspberry Pi (yo uso una Rpi Zero W)
+
 1x Tarjeta SD con Raspbian instalado
+
 1x Raspberry Pi TV HAT
+
 
 # LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
   (forkeado de https://github.com/maincenter/Logotipos-TV)
