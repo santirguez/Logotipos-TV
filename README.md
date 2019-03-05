@@ -45,7 +45,7 @@ Si lo desea, puede descargar uno a uno todos los logotipos y enlazarlos manualme
 
 Instalación de las URL's para los logotipos bajo TVHeadend:
 --------------------------------------------------------------------------------------------------------------------
--Accede a TVHeadend y vaya a "Configuration --> General --> Base" en esta ventana, encontrará en la parte inferior una sección dedicada a los Picon.
+- Accede a TVHeadend y vaya a "Configuration --> General --> Base" en esta ventana, encontrará en la parte inferior una sección dedicada a los Picon.
 
 1. Marcamos la casilla que dice: "Prefer picons over channel name"
 
@@ -58,7 +58,7 @@ El resto de opciones las dejaremos tal cual están y en la parte superior iquier
 
 - Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
 
-Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + Click izquierdo de ratón" marcando de forma normal el primer canal de la lista, vamos asta el final de la lista y pulsando SHIFT + CLICK Izquierdo del ratón en la última entrada, nos marcará todos los canales. Ahora pulsamos en la opción de la parte superior donde dice: "Reset Icon" y pulsamos en Save, al pulsar en Save nos generará las URL's y si todo a salido bien, lo tendremos funcionando perfectamente.
+- Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + Click izquierdo de ratón" marcando de forma normal el primer canal de la lista, vamos asta el final de la lista y pulsando SHIFT + CLICK Izquierdo del ratón en la última entrada, nos marcará todos los canales. Ahora pulsamos en la opción de la parte superior donde dice: "Reset Icon" y pulsamos en Save, al pulsar en Save nos generará las URL's y si todo a salido bien, lo tendremos funcionando perfectamente.
 
 URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
