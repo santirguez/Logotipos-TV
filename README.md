@@ -1,5 +1,12 @@
-Vídeo-Tutorial en Youtube: https://youtu.be/bbZBz3ltues
-# LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES
+Esta explicación es para la creación de una TV en streaming con una Raspberry Pi y el Raspberry Pi TV HAT
+De esta manera, es posible realizar el streaming de TV TDT a todos los dispositivos de la casa e incluso a través de internet.
+Hardware necesario:
+
+1x Raspberry Pi (yo uso una Rpi Zero W)
+1x Tarjeta SD con Raspbian instalado
+1x Raspberry Pi TV HAT
+
+# LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES (forkeado de https://github.com/maincenter/Logotipos-TV)
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
 Estos logotipos dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
