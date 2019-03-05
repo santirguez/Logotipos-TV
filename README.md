@@ -2,11 +2,14 @@ Esta explicación es para la creación de una TV en streaming con una Raspberry 
 De esta manera, es posible realizar el streaming de TV TDT a todos los dispositivos de la casa e incluso a través de internet.
 
 Hardware necesario:
-- 1x Raspberry Pi (yo uso una Rpi Zero W) 
-- 1x Tarjeta SD con Raspbian instalado
+- 1x Raspberry Pi (yo uso una Rpi Zero W)
+<img src="images/Pi_Zero_W.jpg" width="300">
+
+
 - 1x Raspberry Pi TV HAT
+<img src="images/PI_TV_HAT.png" width="300">
 
-
+- 1x Tarjeta SD con Raspbian instalado
 
 Este tutorial parte de la base de que la Raspberry ya está funcionando, conectada a internet (ya sea a través de ethernet of WiFi), con el Pi TV HAT instalado, y da los pasos necesarios para instalar TVHeandend y poder ver los canales de TDT a través de la red.
 
@@ -26,7 +29,6 @@ Una vez descargado, es encesario hacerlo ejecutable:
 Una vez es ejecutable, simplemente hay que ejecutarlo (necesita permisos de administrador):
 
 `./tvheadend_install.sh`
-
 
 ## LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
   (forkeado de https://github.com/maincenter/Logotipos-TV)
