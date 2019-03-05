@@ -6,7 +6,8 @@ Hardware necesario:
 1x Tarjeta SD con Raspbian instalado
 1x Raspberry Pi TV HAT
 
-# LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES (forkeado de https://github.com/maincenter/Logotipos-TV)
+# LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
+  (forkeado de https://github.com/maincenter/Logotipos-TV)
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
 Estos logotipos dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
