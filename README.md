@@ -47,25 +47,21 @@ Instalación de las URL's para los logotipos bajo TVHeadend:
 --------------------------------------------------------------------------------------------------------------------
 -Accede a TVHeadend y vaya a "Configuration --> General --> Base" en esta ventana, encontrará en la parte inferior una sección dedicada a los Picon.
 
-1- Marcamos la casilla que dice: "Prefer picons over channel name"
+1. Marcamos la casilla que dice: "Prefer picons over channel name"
 
-2- En donde dice: "Channel icon path" Indicaremos la URL de los iconos. (URL's Proporcionadas al final)
+1. En donde dice: "Channel icon path" Indicaremos la URL de los iconos. (URL's Proporcionadas al final)
 
-3- En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
+1. En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
 El resto de opciones las dejaremos tal cual están y en la parte superior iquierda pulsaremos en "SAVE" para que los cambios tengan efecto.
 
--Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el  resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
+- Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el  resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
 
--Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
+- Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
 
 Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + Click izquierdo de ratón" marcando de forma normal el primer canal de la lista, vamos asta el final de la lista y pulsando SHIFT + CLICK Izquierdo del ratón en la última entrada, nos marcará todos los canales. Ahora pulsamos en la opción de la parte superior donde dice: "Reset Icon" y pulsamos en Save, al pulsar en Save nos generará las URL's y si todo a salido bien, lo tendremos funcionando perfectamente.
 
 URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
-1- DVB-T o TDT: https://raw.githubusercontent.com/santirguez/TVHeadend-RPi/master/main/transparentes/%C.png
+- DVB-T o TDT: https://raw.githubusercontent.com/santirguez/TVHeadend-RPi/master/main/transparentes/%C.png
 
--Logos Actualizados el 1 de Julio de 2018
-
-2- Movistar-TV o IPTV: https://raw.githubusercontent.com/santirguez/TVHeadend-RPi/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
-
--Logos Actualizados el 21 de Diciembre de 2016
+- Movistar-TV o IPTV: https://raw.githubusercontent.com/santirguez/TVHeadend-RPi/master/development/IPTV/MoviStar%2B/%C.png 
