@@ -6,6 +6,8 @@ Hardware necesario:
 - 1x Tarjeta SD con Raspbian instalado
 - 1x Raspberry Pi TV HAT
 
+
+
 Este tutorial parte de la base de que la Raspberry ya está funcionando, conectada a internet (ya sea a través de ethernet of WiFi), con el Pi TV HAT instalado, y da los pasos necesarios para instalar TVHeandend y poder ver los canales de TDT a través de la red.
 
 En esta configuración la Raspberry Pi no está pensada para reproducir la TV, sino para hacer de dispositivos de streaming.
