@@ -1,4 +1,4 @@
-Esta explicación es para la creación de una TV en streaming con una Raspberry Pi y el Raspberry Pi TV HAT
+La intención de esta expliación es la de poder montar una TV en streaming con una Raspberry Pi y el Raspberry Pi TV HAT
 De esta manera, es posible realizar el streaming de TV TDT a todos los dispositivos de la casa e incluso a través de internet.
 
 **Hardware necesario:**
