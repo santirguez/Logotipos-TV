@@ -29,7 +29,7 @@ Una vez es ejecutable, simplemente hay que ejecutarlo (necesita permisos de admi
 `./tvheadend_install.sh`
 
 Ahora, desde otro dispositivo, se puede acceder a la configuración de TVHeadedend a través de la diracción:
-hhtp://IP_RPI_LOCAL:9991 con de IP_RPI_LOCAL es la IP de la Raspberry dentro de la red local.
+hhtp://IP_RPI_LOCAL:9991 donde IP_RPI_LOCAL es la IP de la Raspberry dentro de la red local.
 
 ## LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
   (forkeado de https://github.com/maincenter/Logotipos-TV)
