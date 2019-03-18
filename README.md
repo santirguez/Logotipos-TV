@@ -28,20 +28,15 @@ Una vez es ejecutable, simplemente hay que ejecutarlo (necesita permisos de admi
 
 `./tvheadend_install.sh`
 
+Ahora, desde otro dispositivo, se puede acceder a la configuración de TVHeadedend a través de la diracción:
+hhtp://IP_RPI_LOCAL:9991 con de IP_RPI_LOCAL es la IP de la Raspberry dentro de la red local.
+
 ## LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES 
   (forkeado de https://github.com/maincenter/Logotipos-TV)
   
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
 Estos logotipos dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
-
-En caso de fuerza mayor, dichos logotipos pueden verse alterados o eliminados sin previo aviso.
---------------------------------------------------------------------------------------------------------------------
-Este proyecto está pensado para poder ofrecer a los usuarios una forma fácil y sencilla de colocar en sus canales de TV los logos oficiales, ya sea para sistemas como KODI, MyTV, Plex y otros utilizando TVHeadend.
-
-Se facilitarán las URL de acceso directo a todas las bibliotecas en las que trabajamos, con el fin de enlazarlas desde TVHeadend.
-
-Si lo desea, puede descargar uno a uno todos los logotipos y enlazarlos manualmente desde su propio disco duro, si opta por esta opción sus logotipos no se actualizarán automáticamente y deberá realizar una actualización manualmente.
 
 Instalación de las URL's para los logotipos bajo TVHeadend:
 --------------------------------------------------------------------------------------------------------------------
