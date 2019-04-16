@@ -5,7 +5,7 @@ De esta manera, es posible realizar el streaming de TV TDT a todos los dispositi
 
 Descripción | Imagen
 ------------ | -------------
-1x **Raspberry Pi** (yo uso una Rpi Zero W) | <img src="images/Pi_Zero_W.jpg" width="300">
+1x **Raspberry Pi** (yo uso una RPi Zero W) | <img src="images/Pi_Zero_W.jpg" width="300">
 1x **Raspberry Pi TV HAT** | <img src="images/PI_TV_HAT.png" width="300">
 1x **Tarjeta SD con Raspbian instalado** |
 
